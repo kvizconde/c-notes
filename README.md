@@ -9,6 +9,7 @@ These are compiled notes that I took during COMP 2511 summer class, written in m
 
 
 
+&nbsp;
 
 COMP 2511 - (PTS) Summer Course @BCIT
 
@@ -16,6 +17,7 @@ COMP 2510 (FT)
 
 Instructor: Albert Wei 🧓🏻
 
+&nbsp;
 
 
 

@@ -4,7 +4,9 @@
 
 
 
-These are compiled notes that I took during COMP 2511 summer class, written in markdown for better visual experience. Pass it along and enjoy.
+These are compiled notes that I took during COMP 2511 summer class, written in markdown for better visual experience. Pass it along and enjoy. 🙂🍺
+
+
 
 
 
@@ -13,6 +15,8 @@ COMP 2511 - (PTS) Summer Course @BCIT
 COMP 2510 (FT)
 
 Instructor: Albert Wei 🧓🏻
+
+
 
 
 

@@ -8,24 +8,6 @@
 
 
 
-  * [How to test your functions:](#how-to-test-your-functions)
-      
-      - [Examples:](#examples)
-  * [Design By Contract (DBC) 🤝](#design-by-contract-dbc-)
-      
-      - [Example:](#example)
-  * [Strings](#strings)
-      - [Example:](#example-1)
-    + [Standard Idiom to process a String](#standard-idiom-to-process-a-string)
-      - [Examples:](#examples-1)
-  * [String functions in the standard C Library](#string-functions-in-the-standard-c-library)
-    
-    + [⭐️ Use this method for TESTING:](#️-use-this-method-for-testing)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-
 ---
 
 

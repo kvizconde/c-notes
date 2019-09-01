@@ -8,20 +8,6 @@
 
 
 
-  * [hello, world](#hello-world)
-  * [Compiling](#compiling)
-  * [2nd Program](#2nd-program)
-    + [definition vs declaration](#definition-vs-declaration)
-      - [A definition can act as a declaration.](#a-definition-can-act-as-a-declaration)
-  * [Arrays []](#arrays-)
-    + [Standard Idiom to process an Array](#standard-idiom-to-process-an-array)
-    + [Pass By Value vs Pass By Reference](#pass-by-value-vs-pass-by-reference)
-      - [Testings:](#testings)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-
 ---
 
 

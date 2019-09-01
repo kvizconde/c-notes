@@ -41,7 +41,6 @@ line
 |  ?   |  ?   |  ?   |  ?   |  ?   |  ?   |  ?   |  ?   |  ?   |  ?   |
 
 <center>⬇️</center>
-
 fgets (line, 10, stdin);
 
 |  H   |  E   |  L   |  L   |  O   |  W   |  \0  |  ?   |  ?   |  ?   |
@@ -49,7 +48,6 @@ fgets (line, 10, stdin);
 |      |      |      |      |      |      |      |      |      |      |
 
 <center>⬇️</center>
-
 fgets(…);
 
 

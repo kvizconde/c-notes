@@ -4,6 +4,14 @@
 
 
 
+[TOC]
+
+
+
+---
+
+
+
 ## Inserting Data into a BST
 
 

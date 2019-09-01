@@ -4,6 +4,14 @@
 
 
 
+[TOC]
+
+
+
+---
+
+
+
 ## [ 1 ] :
 
 > (a) Write a C function print with prototype

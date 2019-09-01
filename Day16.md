@@ -8,27 +8,6 @@
 
 
 
-- [C Notes - Day 16](#c-notes---day-16)
-    
-  + [⭐️ Note: There is no case-insensitive string comparison function in the standard ANSI C library.](#---note--there-is-no-case-insensitive-string-comparison-function-in-the-standard-ansi-c-library)
-  * [Continued Lesson from Day 15](#continued-lesson-from-day-15)
-    + [Pointer Arithmetic with Arrays :](#pointer-arithmetic-with-arrays--)
-    + [Standard Idiom to process an Array (Pointer Version)](#standard-idiom-to-process-an-array--pointer-version-)
-      - [Examples :](#examples--)
-  * [Equivalence of Pointer and Array notation](#equivalence-of-pointer-and-array-notation)
-  * [Simply-linked Lists](#simply-linked-lists)
-      - [Example : List of integers](#example---list-of-integers)
-    + [Operations on lists](#operations-on-lists)
-      - [Traversing a List](#traversing-a-list)
-    + [Standard Idiom to process a Singly-Linked List](#standard-idiom-to-process-a-singly-linked-list)
-      - [Example](#example)
-      - [Destroying a list](#destroying-a-list)
-    + [Standard Idiom to destroy a list](#standard-idiom-to-destroy-a-list)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-
 ------
 
 
